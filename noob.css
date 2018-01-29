@@ -1,0 +1,132 @@
+.table1 {
+    font-family: "Gill Sans", sans-serif;
+    font-style: bold;
+    font-size: 20px;
+    color: #232323;
+    border-collapse: collapse;
+}
+
+.table1 th {
+    border: 1px solid #000000;
+    padding: 8px 50px;
+    background-color: #333333;
+}
+
+.table1 p {
+  color: #ffffff;
+}
+
+.table1 td {
+  border: 1px solid #000000;
+  padding: 8px 50px;
+
+}
+.a3 {
+    font-family: "Gill Sans", sans-serif;
+    font-style: bold;
+    font-size: 50px;
+    align-items: center;
+}
+
+.a2 {
+  background-color: #333333;
+}
+.a2 p{
+  color: #ffffff;
+}
+
+.a1 {
+  background:#007bff;
+  color: #FFFFFF;
+	background-color: #007bff;
+  border-top:4px solid #2A80B9;
+  border-left:4px solid #2A80B9;
+  border-right:4px solid #2A80B9;
+  border-bottom:4px solid #2A80B9;
+  padding:10px 20px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt;
+}
+.a1:before {
+	color: #FFFFFF;
+	content: "Tambah Barang";
+}
+.a1:hover {
+	background-color:#007bff;
+}
+.a1:hover:before {
+	font-size: 120%;
+}
+
+.a4 {
+  background:#007bff;
+  color: #FFFFFF;
+	background-color: #007bff;
+  border-top:4px solid #2A80B9;
+  border-left:4px solid #2A80B9;
+  border-right:4px solid #2A80B9;
+  border-bottom:4px solid #2A80B9;
+  padding:10px 20px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt;
+}
+.a4:before {
+	color: #FFFFFF;
+	content: "Menu Awal";
+}
+.a4:hover {
+	background-color:#007bff;
+}
+.a4:hover:before {
+	font-size: 120%;
+}
+
+.a5 {
+  background:#28a745;
+  color: #FFFFFF;
+	background-color: #28a745;
+  border-top:2px solid #2A80B9;
+  border-left:2px solid #2A80B9;
+  border-right:2px solid #2A80B9;
+  border-bottom:2px solid #2A80B9;
+  padding:5px 10px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt;
+}
+.a5:before {
+	color: #FFFFFF;
+	content: "Edit";
+}
+.a5:hover {
+	background-color:#28a745;
+}
+.a5:hover:before {
+	font-size: 105%;
+}
+
+.a6 {
+  background:#dc3545;
+  color: #FFFFFF;
+	background-color: #dc3545;
+  border-top:2px solid #2A80B9;
+  border-left:2px solid #2A80B9;
+  border-right:2px solid #2A80B9;
+  border-bottom:2px solid #2A80B9;
+  padding:5px 10px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt;
+}
+.a6:before {
+	color: #FFFFFF;
+	content: "Delete";
+}
+.a6:hover {
+	background-color:#dc3545;
+}
+.a6:hover:before {
+	font-size: 105%;
+}
